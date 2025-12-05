@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Extension Popup",
+  "description": "A Chrome Extension-style popup interface powered by Google Gemini 2.5 Flash, featuring Chat, Summarization, and Content Rewriting tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
